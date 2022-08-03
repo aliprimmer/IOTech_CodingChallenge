@@ -1,2 +1,2 @@
 # IOTech_CodingChallenge
-Repo made to show solution of coding challenge 
+Pulling this repo and runing on any IDE should work properly. 
